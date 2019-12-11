@@ -216,7 +216,7 @@ export default props => <Main>
           <Main.SkillSectionContentWrapper>
             <ul className="mb-0">
               <li>
-                <a href="http://gps.dientunamlong.vn/">GPS Dientunamlong</a>
+                <a href="http://gps.dientunamlong.vn/">GPS Dientunamlong(jQuery, AJAX)</a>
               </li>
             </ul>
           </Main.SkillSectionContentWrapper>
@@ -230,7 +230,13 @@ export default props => <Main>
           <Main.SkillSectionContentWrapper>
             <ul className="mb-0">
               <li>
-                <a href="http://wish.iotservices.xyz:81">Web Admin: React-Admin (Manager user, product)</a>
+                <a href="http://wish.iotservices.xyz:81">Web Admin: Manager user, product (React-Admin)</a>
+              </li>
+              <li>
+                <a href="https://github.com/raito0/React-chart">Buy/Sell Crypto (React, redux, redux-saga, Tradingview)</a>
+              </li>
+              <li>
+                <a href="https://github.com/raito0/CV">Repositories of CV (Styled-components)</a>
               </li>
             </ul>
           </Main.SkillSectionContentWrapper>
